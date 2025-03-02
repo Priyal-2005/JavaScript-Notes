@@ -32,7 +32,7 @@ function getData(dataId) {
         }, 2000)
     })
 }
-// console.log(getData(123))
+// console.log(getData(1))
 
 // in this case, we got a promise that data will be returned. Till the time setTimeout is not executed, promise is pending. After 5 secs, promise will be fulfilled
 
